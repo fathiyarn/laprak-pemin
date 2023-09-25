@@ -40,38 +40,31 @@
 
 - ### Langkah 1
 
-  > Melakukan koneksi ke MongoDB Server dengan menjalankan command `mongosh`
-  > ![img1](9.png)
+  > Melakukan koneksi ke MongoDB Server dengan menjalankan command `mongosh` > ![img1](9.png)
 
 - ### Langkah 2
 
-  > Melihat list database yang ada di server dengan menjalankan command `show dbs`
-  > ![img1](10.png)
+  > Melihat list database yang ada di server dengan menjalankan command `show dbs` > ![img1](10.png)
 
 - ### Langkah 3
 
-  > Berpindah ke database “bookstore” gunakan command `use bookstore`
-  > ![img1](11.png)
+  > Berpindah ke database “bookstore” gunakan command `use bookstore` > ![img1](11.png)
 
 - ### Langkah 4
 
-  > Melihat collection yang ada pada database tersebut dengan menggunakan command `show collections`
-  > ![img1](12.png)
+  > Melihat collection yang ada pada database tersebut dengan menggunakan command `show collections` > ![img1](12.png)
 
 - ### Langkah 5
 
-  > Melakukan insert buku “Overlord I” dengan menggunakan command `db.books.insertOne(<data kalian>)`
-  > ![img1](13.png)
+  > Melakukan insert buku “Overlord I” dengan menggunakan command `db.books.insertOne(<data kalian>)` > ![img1](13.png)
 
 - ### Langkah 6
 
-  > Melakukan insert buku “The Setting Sun” dan “Hujan” dengan command `db.books.insertMany(<data kalian>)`
-  > ![img1](14.png)
+  > Melakukan insert buku “The Setting Sun” dan “Hujan” dengan command `db.books.insertMany(<data kalian>)` > ![img1](14.png)
 
 - ### Langkah 7
 
-  > MeLakukan pencarian semua buku dengan menggunakan command `db.books.find() `
-  > ![img1](15.png)
+  > MeLakukan pencarian semua buku dengan menggunakan command `db.books.find() ` > ![img1](15.png)
 
 - ### Langkah 8
 
@@ -90,9 +83,7 @@
 
 - ### Langkah 11
 
-  > Melakukan penghapusan pada buku “Overlord I” dengan menggunakan command `db.books.deleteOne({<argument>})`
-  > ![img1](20.png)
+  > Melakukan penghapusan pada buku “Overlord I” dengan menggunakan command `db.books.deleteOne({<argument>})` > ![img1](20.png)
 
 - ### Langkah 12
-  > Melakukan penghapusan pada semua buku “Osamu Dazai dengan menggunakan command `db.books.deleteMany({<argument>})`
-  > ![img1](21.png)
+  > Melakukan penghapusan pada semua buku “Osamu Dazai dengan menggunakan command `db.books.deleteMany({<argument>})` > ![img1](21.png)
