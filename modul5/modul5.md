@@ -10,7 +10,8 @@
 - ### Langkah 2
 
   > Mengakses halaman web dari route yang telah dibuat sebelumnya
-  > ![img1](1-2.png) > ![img1](1-3.png)
+  > ![img1](1-2.png) 
+  > ![img1](1-3.png)
 
 - ### Langkah 3
 
