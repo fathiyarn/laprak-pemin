@@ -5,7 +5,7 @@
 - ### Langkah 1
 
   > Mengganti baris kode pada file app/Models/User.php seperti pada gambar
-  > ![img](/modul6/1.png)
+  > ![img1](/modul6/1.png)
 
 ## Controller
 
