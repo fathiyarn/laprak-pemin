@@ -31,7 +31,8 @@
 - ### Langkah 6
 
   > Mengakses halaman web optional routes dengan parameter variabel dan tanpa parameter variabelnya
-  > ![img1](3-2.png) > ![img1](3-3.png)
+  > ![img1](3-2.png) 
+  > ![img1](3-3.png)
 
 ## Aliases Route
 
@@ -43,7 +44,8 @@
 - ### Langkah 8
 
   > Mengakses halaman web /auth/login dan /profile
-  > ![img1](4-3.png) > ![img1](4-4.png)
+  > ![img1](4-3.png) 
+  > ![img1](4-4.png)
 
 ## Group Route
 
@@ -66,7 +68,8 @@
 
 - ### Langkah 12
 
-  > Mendaftarkan `AgeMiddleware` pada aplikasi di dalam file `bootstrap/app.php` > ![img1](6-2.png)
+  > Mendaftarkan `AgeMiddleware` pada aplikasi di dalam file `bootstrap/app.php` 
+  > ![img1](6-2.png)
 
 - ### Langkah 13
 
